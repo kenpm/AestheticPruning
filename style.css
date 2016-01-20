@@ -1,0 +1,93 @@
+td {
+	text-align: left;
+	font-family:tahoma, arial, helvetica;
+	font-size:10px;
+	color:#50251B;
+	line-height:12px;
+}
+a {
+	text-decoration: none;
+	color:#DF2C27;
+}
+
+body { 	margin:0px;padding:0px; background-color:#ffffff}
+
+.copy{
+font-family:tahoma;
+font-size:10px;
+color:#ffffff;
+text-decoration:none;
+}
+
+.top_txt {	color:#787878;
+			text-decoration:none}
+.bot_txt {	color:#FFFFFF;
+			text-decoration:none}
+
+.brown {color:#50251B; text-decoration:none}
+.red {color:#646464; text-decoration:none}
+.orange {color:#DB6C21; text-decoration:none}
+.black {color:#000000; text-decoration:none}
+
+
+.sm {font-size:10px}
+.u {text-decoration:underline}
+.t {text-transform:uppercase}
+.big {font-size:12px}
+
+
+.form { width:174px;
+		height:16px;
+		font-family:tahoma;
+		font-size:10px;
+		border-style:solid;
+		border-width:1px;
+		border-color:#D31512;
+		background-color:#ffffff;
+		color:#4D4D4D;
+		margin-left:0px;
+		margin-right:0px}
+		
+.textarea {width:193px;
+		height:85px;
+		font-family:tahoma;
+		font-size:10px;
+		border-style:solid;
+		border-width:1px;
+		border-color:#D31512;
+		background-color:#ffffff;
+		color:#4D4D4D;
+		overflow:auto;
+		margin-left:0px;
+		margin-right:0px;}
+
+/*
+.rollover {scrollbar-face-color:#B6E9FF;
+		scrollbar-track-color:#FCFEFF;
+		scrollbar-arrow-color:#FCFEFF;
+		scrollbar-3Dlight-color:#FCFEFF;
+		scrollbar-base-color:#FCFEFF;
+		scrollbar-shadow-color:#FCFEFF;
+		scrollbar-darkshadow-color:#FCFEFF;
+		scrollbar-highlight-color:#FCFEFF;
+		}
+*/
+
+a:hover{text-decoration:underline;}
+#a:hover{text-decoration:none;}
+
+.MenuLink {font-size: 12px; font-weight: bold; }
+.FindAPrunerBold {font-size: 10px; font-weight: bold; white-space:nowrap }
+.FindAPrunerName {font-size: 12px; font-weight: bold; }
+
+.HomeBlue { color: #6699CC; font-size: 16px; font-family: arial, helvetica; word-spacing: 7px; line-height: 17px; font-style: italic; }
+.HomeGreen { color: #336600;  font-style: normal; }
+.HomeRed { color: #993333;  }
+
+.TextTitle {font-family: Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; }
+.TextTitleLarge {font-family: Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; }
+.ContentText { font-family:Arial, Helvetica, sans-serif; font-size:12px; }
+
+.BoldText {font-weight: bold;}
+
+.Breadcrumb {font-size: 12px; text-decoration: none; color:#DF2C27; font-weight: bold;}
